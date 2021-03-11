@@ -1,11 +1,11 @@
-title: Your awesome title
-author: GitHub User
+title: Issues with GitHub Pages Project 
+author: GitHub Pages User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  When I first started working on the GitHub Pages project, the minima theme,
+  or any changes saved in the _config.yml file would not load. I deleted the
+  respiratory and I'm starting from scratch. Let's see how it works now.
+theme: minima
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
